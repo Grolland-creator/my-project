@@ -1,1 +1,1 @@
-console.log('i niga')
+console.log('Barararararararararar')
